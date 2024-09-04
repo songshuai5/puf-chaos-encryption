@@ -1,0 +1,1 @@
+This is an image encryption program that integrates the principles of Physical Unclonable Functions (PUF) and chaos theory. The encryption process utilizes the inherent randomness and uniqueness of PUFs along with the unpredictable behavior of chaotic systems to enhance the security and robustness of image encryption.
